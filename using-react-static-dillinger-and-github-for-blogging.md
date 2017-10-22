@@ -1,5 +1,6 @@
 ---
 title: Using Dillinger, GitHub, and react-static for a personal blog site
+slug: using-react-static-dillinger-and-github-for-blogging
 tags: JavaScript, React, Static site generators
 date: 2017-10-22
 draft: true
