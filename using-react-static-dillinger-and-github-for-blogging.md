@@ -1,5 +1,7 @@
 ---
 title: Using Dillinger, GitHub, and react-static for a personal blog site
+author: Nathan Power
+image: typewriter.jpg
 slug: using-react-static-dillinger-and-github-for-blogging
 tags: JavaScript, React, Static site generators
 date: 2017-10-22
