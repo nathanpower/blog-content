@@ -3,6 +3,7 @@ title: Comparing react-based static site generators
 description: Gatsby, react-static and Next.js
 author: Nathan Power
 image: roads.jpg
+imagePos: 80% 30%
 slug: comparing-react-based-static-site-generators
 tags: JavaScript, React, Static site generators
 date: 2017-10-24
